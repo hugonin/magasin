@@ -8,7 +8,6 @@
 * [Setup](#setup)
 * [Features](#features)
 * [Status](#status)
-* [Inspiration](#inspiration)
 * [Contact](#contact)
 
 ## General info
@@ -31,9 +30,6 @@ To-do list:
 ## Status
 Project is: _in progress_  
 
-
-## Inspiration
-Project based on Udacity Landing Page 
 
 ## Contact
 Created by [@hugonin](https://github.com/hugonin) - feel free to contact me!
