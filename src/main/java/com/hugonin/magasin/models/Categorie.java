@@ -1,6 +1,7 @@
 package com.hugonin.magasin.models;
 
 import lombok.Data;
+import lombok.NoArgsConstructor;
 
 import javax.persistence.*;
 import java.util.List;
@@ -8,6 +9,7 @@ import java.util.List;
 @Data
 @Entity
 @Table(name = "categorie")
+@NoArgsConstructor
 public class Categorie {
 
     @Id

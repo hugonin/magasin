@@ -5,7 +5,7 @@ import lombok.Data;
 
 @Data
 @AllArgsConstructor
-public class GetClientDTO {
+public class GetClientsDTO {
     private String nom;
     private String prenom;
 }
