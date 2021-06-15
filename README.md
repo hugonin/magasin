@@ -3,32 +3,34 @@
 
 ## Table of contents
 * [General info](#general-info)
-* [Screenshots](#screenshots)
-* [Technologies](#technologies)
+* [Dependencies](#dependencies)
 * [Setup](#setup)
-* [Features](#features)
 * [Status](#status)
 * [Contact](#contact)
 
 ## General info
-This project is a part of a Spring training program
+The aim of this project is to learn how to create a RESTful web service with Spring
 
 
-## Features
-List of features:
+## Dependencies
 
 * Spring Web
 * Spring Data JPA
 * MySQL Driver
 * Lombok
 
-To-do list:
+## Setup
 
-* 
+* Configure the connection to the database
+* Create models
+* Create DTO
+* Setup the database relationships 
+* Create the repositories
+* Create the services and controllers
 
 
 ## Status
-Project is: _in progress_  
+Project is: _in test_  
 
 
 ## Contact
